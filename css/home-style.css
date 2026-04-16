@@ -96,16 +96,9 @@ p{
    padding-top: 1px;
    color: #b8d8d9;
 }
-@media screen and (max-width: 796px){
-    .links a{
-        font-size: 201%;
-        padding-bottom:5% ;
-    padding-top: 2%;
-  }  
-}
 @media screen and (max-width:768px){
     .links a{
-        width: 91%;
+        width: 100%;
     }
     div.links ul{
         flex-direction:column ;
