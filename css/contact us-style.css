@@ -93,7 +93,7 @@ p{
 }
 @media screen and (max-width:768px){
     .links a{
-        width: 91%;
+        width: 100%;
     }
     div.links ul{
         flex-direction:column ;
@@ -104,7 +104,6 @@ p{
     nav{
         font-size: 58%;
     }
-}
 @media screen and (max-width:400px){
     .container {
         width: 100%;
